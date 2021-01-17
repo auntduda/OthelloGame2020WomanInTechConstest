@@ -1,0 +1,1 @@
+# OthelloGame2020WomanInTechConstest
